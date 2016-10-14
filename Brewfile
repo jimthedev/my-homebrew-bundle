@@ -56,7 +56,6 @@ cask 'quicklook-json'
 cask 'suspicious-package'
 cask 'virtualbox'
 cask 'webpquicklook'
+mas 'Sip (4.4.1)', id: 507257563
+mas 'GIF Keyboard (1.0.3)', id: 1043270657
 mas 'GIPHY CAPTURE (2.4)', id: 668208984
-mas 'Airmail 3 (3.1)', id: 918858936
-mas 'Xcode (8.0)', id: 497799835
-mas 'Color Picker (1.4.5)', id: 641027709

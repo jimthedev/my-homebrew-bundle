@@ -1,0 +1,8 @@
+tap 'caskroom/cask'
+tap 'homebrew/bundle'
+tap 'homebrew/core'
+mas 'Color Picker (1.4.5)', id: 641027709
+mas 'Pixelmator (3.5.1)', id: 407963104
+mas 'Airmail 3 (3.1)', id: 918858936
+mas 'Snipposé (1.3)', id: 1140313689
+mas 'ScreenFlow (5.0.5)', id: 917790450
